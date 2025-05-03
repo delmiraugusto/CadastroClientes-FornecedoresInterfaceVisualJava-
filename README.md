@@ -62,7 +62,7 @@ O sistema possui 5 janelas principais:
 ## Arquitetura e Tecnologias
 
 - Programação orientada a objetos com uso de **herança**.
-- Interface gráfica (ex: Java Swing ou JavaFX / Python Tkinter).
+- Interface gráfica.
 - Persistência de dados em **arquivo** (leitura e escrita simples).
 
 ## Observações
