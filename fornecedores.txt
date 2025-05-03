@@ -1,0 +1,2 @@
+Augusto Fornecedor,(24)999999999,augusto@gmail.com,12345678910112,Av. Getúlio Vargas,335,000,Quitandinha,Petrópolis,RJ,25651-075
+Kaique Fornecedor,(24)999999999,kaique@gmail.com,12345678910112,Av. Getúlio Vargas,335,000,Quitandinha,Petrópolis,RJ,25651-075
